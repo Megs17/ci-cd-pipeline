@@ -1,5 +1,5 @@
 
-# 🚀 CI/CD Pipeline with Jenkins
+# 🚀 CI/CD Pipeline with Jenkins and argocd
 
 This project utilizes Jenkins to implement a complete CI/CD pipeline for a Node.js application. It includes dependency checks, unit and integration testing, Dockerization, security scanning, deployment on AWS EC2, Kubernetes integration (ArgoCD), and reporting.
 
